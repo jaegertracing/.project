@@ -27,7 +27,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://www.jaegertracing.io/"
 
-artwork: "https://landscape.cncf.io/logos/jaeger.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/jaeger"
 
 adopters:
   path: "https://github.com/jaegertracing/jaeger/blob/main/ADOPTERS.md"
